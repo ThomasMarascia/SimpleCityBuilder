@@ -33,6 +33,8 @@ This is a simple build system for Unity 3D. It is extremely customizable.
 ### Materials:
     The grid material, building preview materials, and foundation materials are all found in the BuildSystem/Materials folder. 
 
+### Changing Layers:
+    To change the build area layers to your own custom one you need to make sure add the layer to the grid overlays' terrain mask property. you can find the grid overlay in the build area prefab. 
 
 ## Settings
 
